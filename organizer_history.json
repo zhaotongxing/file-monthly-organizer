@@ -1,0 +1,2198 @@
+[
+  {
+    "task_id": "a1baeb32",
+    "timestamp": "2026-04-25 00:16:43",
+    "source_root": "D:/20251108桌面",
+    "target_root": "D:/Backup",
+    "operation_mode": "copy",
+    "folder_format": "{year}年{month}月",
+    "total_files": 27,
+    "success_count": 22,
+    "failed_count": 0,
+    "skipped_count": 5,
+    "keyword_subfolder": "规范指引",
+    "status": "partial",
+    "items": [
+      {
+        "source": "D:\\20251108桌面\\首席事务代表规范指引培训\\附件2：政务服务中心首席事务代表情况汇总表.xlsx",
+        "destination": "D:\\Backup\\规范指引\\2026年02月\\附件2：政务服务中心首席事务代表情况汇总表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\首席事务代表规范指引培训\\附件1：政务服务中心首席事务代表情况统计表.xlsx",
+        "destination": "D:\\Backup\\规范指引\\2025年12月\\附件1：政务服务中心首席事务代表情况统计表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年11月\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿1021）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年11月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿1021）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年11月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\3.关于起草政务服务4个规范指引的情况汇报.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年11月\\3.关于起草政务服务4个规范指引的情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\1.送审单.doc",
+        "destination": "D:\\Backup\\规范指引\\2025年11月\\1.送审单.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年10月\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年10月\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\3.关于《山东省政务服务自助服务规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\3.关于《山东省政务服务自助服务规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\2.关于《山东省政务服务“不打烊”工作规范指引》的起草说明.doc",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\2.关于《山东省政务服务“不打烊”工作规范指引》的起草说明.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\4省委编办.pdf",
+        "destination": "D:\\Backup\\规范指引\\2025年09月\\4省委编办.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\关于拟订《山东省政务服务标准规范汇编（三）》的情况汇报.pdf",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\关于拟订《山东省政务服务标准规范汇编（三）》的情况汇报.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\3.关于起草政务服务3个规范指引的情况汇报.docx",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\3.关于起草政务服务3个规范指引的情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\1.送审单.doc",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\1.送审单.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\4.山东省政务服务标准规范汇编（三）清样.pdf",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\4.山东省政务服务标准规范汇编（三）清样.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\4.山东省政务服务标准规范汇编（三）清样.doc",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\4.山东省政务服务标准规范汇编（三）清样.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\2.政策法规处审核意见.pdf",
+        "destination": "D:\\Backup\\规范指引\\2024年09月\\2.政策法规处审核意见.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": false,
+        "undo_error": null
+      }
+    ],
+    "undone": false,
+    "undo_timestamp": null
+  },
+  {
+    "task_id": "98817da1",
+    "timestamp": "2026-04-25 00:08:29",
+    "source_root": "D:/20251108桌面",
+    "target_root": "D:/Backup",
+    "operation_mode": "copy",
+    "folder_format": "{year}年{month}月",
+    "total_files": 231,
+    "success_count": 218,
+    "failed_count": 0,
+    "skipped_count": 13,
+    "keyword_subfolder": "",
+    "status": "undone",
+    "items": [
+      {
+        "source": "D:\\20251108桌面\\发言.doc",
+        "destination": "D:\\Backup\\2026年03月\\发言.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\人员情况花名册（张晓艳）.xlsx",
+        "destination": "D:\\Backup\\2026年03月\\人员情况花名册（张晓艳）.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\首席事务代表规范指引培训\\附件2：政务服务中心首席事务代表情况汇总表.xlsx",
+        "destination": "D:\\Backup\\2026年02月\\附件2：政务服务中心首席事务代表情况汇总表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八上期末成绩汇总+班级评价.xls",
+        "destination": "D:\\Backup\\2026年02月\\八上期末成绩汇总+班级评价.xls",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\4-2.领导干部政治素质自评表（2025）.doc",
+        "destination": "D:\\Backup\\2026年01月\\4-2.领导干部政治素质自评表（2025）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\3.个人业绩相关信息采集表（2025）.doc",
+        "destination": "D:\\Backup\\2026年01月\\3.个人业绩相关信息采集表（2025）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\张局总结简版.docx",
+        "destination": "D:\\Backup\\2026年01月\\张局总结简版.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\1.公务员年度考核登记表（2025）.doc",
+        "destination": "D:\\Backup\\2026年01月\\1.公务员年度考核登记表（2025）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\2025年度述职述廉报告（张春勇）.doc",
+        "destination": "D:\\Backup\\2026年01月\\2025年度述职述廉报告（张春勇）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\4-1.政治素质表现正负面清单.doc",
+        "destination": "D:\\Backup\\2026年01月\\4-1.政治素质表现正负面清单.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\5.年度考核登记表填写要求.doc",
+        "destination": "D:\\Backup\\2026年01月\\5.年度考核登记表填写要求.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\1.公务员年度考核登记表.doc",
+        "destination": "D:\\Backup\\2026年01月\\1.公务员年度考核登记表.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\4-2.领导干部政治素质自评表.doc",
+        "destination": "D:\\Backup\\2026年01月\\4-2.领导干部政治素质自评表.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2025\\3.个人业绩相关信息采集表.doc",
+        "destination": "D:\\Backup\\2026年01月\\3.个人业绩相关信息采集表.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\张局长2025年度工作述职点评意见.docx",
+        "destination": "D:\\Backup\\2026年01月\\张局长2025年度工作述职点评意见.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\表格3个人业绩相关信息采集表（2024）.doc",
+        "destination": "D:\\Backup\\2026年01月\\表格3个人业绩相关信息采集表（2024）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\表格1公务员年度考核登记表（2024）.doc",
+        "destination": "D:\\Backup\\2026年01月\\表格1公务员年度考核登记表（2024）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\2024年度述职述廉报告（张春勇）.doc",
+        "destination": "D:\\Backup\\2026年01月\\2024年度述职述廉报告（张春勇）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024\\表格4领导干部政治素质自评表（张春勇2024）.doc",
+        "destination": "D:\\Backup\\2026年01月\\表格4领导干部政治素质自评表（张春勇2024）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\政治理论.docx",
+        "destination": "D:\\Backup\\2026年01月\\政治理论.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\3.张春勇同志2025年度民主生活会个人发言提纲.doc",
+        "destination": "D:\\Backup\\2026年01月\\3.张春勇同志2025年度民主生活会个人发言提纲.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\反面典型案例材料.docx",
+        "destination": "D:\\Backup\\2026年01月\\反面典型案例材料.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025年度履行全面从严治党责任工作汇报（张春勇）.doc",
+        "destination": "D:\\Backup\\2026年01月\\2025年度履行全面从严治党责任工作汇报（张春勇）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\省座谈会汇报材料.docx",
+        "destination": "D:\\Backup\\2026年01月\\省座谈会汇报材料.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\政务云直播研讨内容.docx",
+        "destination": "D:\\Backup\\2026年01月\\政务云直播研讨内容.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\政务服务工作研讨建议内容（临朐）.doc",
+        "destination": "D:\\Backup\\2026年01月\\政务服务工作研讨建议内容（临朐）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\政务服务工作研讨建议内容（0113）(4).doc",
+        "destination": "D:\\Backup\\2026年01月\\政务服务工作研讨建议内容（0113）(4).doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\智能问答、辅助审批建设.docx",
+        "destination": "D:\\Backup\\2026年01月\\智能问答、辅助审批建设.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\一.docx",
+        "destination": "D:\\Backup\\2026年01月\\一.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\2025.11.11郭勇在政务服务研讨会上的讲话（录音整理）.docx",
+        "destination": "D:\\Backup\\2026年01月\\2025.11.11郭勇在政务服务研讨会上的讲话（录音整理）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\关于以系统化思维与精细化执行推动山东政务服务现代化变革的思考.docx",
+        "destination": "D:\\Backup\\2026年01月\\关于以系统化思维与精细化执行推动山东政务服务现代化变革的思考.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\深化系统变革 精雕服务体验.docx",
+        "destination": "D:\\Backup\\2026年01月\\深化系统变革 精雕服务体验.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\政务服务工作研讨建议内容（0113）.doc",
+        "destination": "D:\\Backup\\2026年01月\\政务服务工作研讨建议内容（0113）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\GBT+46714-2025.pdf",
+        "destination": "D:\\Backup\\2026年01月\\GBT+46714-2025.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\研讨会材料\\GBT+45836-2025.pdf",
+        "destination": "D:\\Backup\\2026年01月\\GBT+45836-2025.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\新建 DOC 文档.doc",
+        "destination": "D:\\Backup\\2026年01月\\新建 DOC 文档.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\高密市工作开展情况.doc",
+        "destination": "D:\\Backup\\2026年01月\\高密市工作开展情况.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\坊子区政务服务大厅“兜底服务”窗口情况汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\坊子区政务服务大厅“兜底服务”窗口情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\经济区审批局关于大厅办不成事兜底服务窗口工作情况汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\经济区审批局关于大厅办不成事兜底服务窗口工作情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\滨海区政务“兜底服务”“办不成事”窗口工作开展情况.doc",
+        "destination": "D:\\Backup\\2026年01月\\滨海区政务“兜底服务”“办不成事”窗口工作开展情况.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\奎文区关于政务 “兜底服务”  “办不成事” 窗口有关工作情况的汇报.doc",
+        "destination": "D:\\Backup\\2026年01月\\奎文区关于政务 “兜底服务”  “办不成事” 窗口有关工作情况的汇报.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\昌邑市行政审批服务局关于兜底窗口工作开展情况的报告.doc",
+        "destination": "D:\\Backup\\2026年01月\\昌邑市行政审批服务局关于兜底窗口工作开展情况的报告.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\高密市工作开展情况.wps",
+        "destination": "D:\\Backup\\2026年01月\\高密市工作开展情况.wps",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\寿光市政务“兜底服务”“办不成事”窗口工作情况汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\寿光市政务“兜底服务”“办不成事”窗口工作情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\临朐县行政审批服务局“办不成事”窗口工作开展情况.docx",
+        "destination": "D:\\Backup\\2026年01月\\临朐县行政审批服务局“办不成事”窗口工作开展情况.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\高新区办不成事窗口工作汇报.doc",
+        "destination": "D:\\Backup\\2026年01月\\高新区办不成事窗口工作汇报.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\潍坊综合保税区关于“办不成事—兜底服务”窗口贯彻落实情况的汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\潍坊综合保税区关于“办不成事—兜底服务”窗口贯彻落实情况的汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\安丘市政务服务大厅“兜底服务”窗口情况汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\安丘市政务服务大厅“兜底服务”窗口情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\潍城区行政审批服务局关于“兜底服务”“办不成事”窗口情况汇报.docx",
+        "destination": "D:\\Backup\\2026年01月\\潍城区行政审批服务局关于“兜底服务”“办不成事”窗口情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\峡山区政务“兜底服务”“办不成事”窗口工作开展情况-峡山区政务服务中心.docx",
+        "destination": "D:\\Backup\\2026年01月\\峡山区政务“兜底服务”“办不成事”窗口工作开展情况-峡山区政务服务中心.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\青州市行政审批服务局“事没办成 我来兜底”窗口工作开展情况(2026.1.6).doc",
+        "destination": "D:\\Backup\\2026年01月\\青州市行政审批服务局“事没办成 我来兜底”窗口工作开展情况(2026.1.6).doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\昌乐县政务服务“办不成事”反映窗口工作开展情况.docx",
+        "destination": "D:\\Backup\\2026年01月\\昌乐县政务服务“办不成事”反映窗口工作开展情况.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\兜底窗口\\兜底窗口\\诸城创新“兜底办”服务模式，破解企业群众办事难题.docx",
+        "destination": "D:\\Backup\\2026年01月\\诸城创新“兜底办”服务模式，破解企业群众办事难题.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础背默.docx",
+        "destination": "D:\\Backup\\2025年12月\\基础背默.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025年度履行全面从严治党责任工作汇报.doc",
+        "destination": "D:\\Backup\\2025年12月\\2025年度履行全面从严治党责任工作汇报.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025年落实全面从严治党主体责任清单.docx",
+        "destination": "D:\\Backup\\2025年12月\\2025年落实全面从严治党主体责任清单.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\市直机关“五星级党支部”申报表（机关第二支部）.docx.docx",
+        "destination": "D:\\Backup\\2025年12月\\市直机关“五星级党支部”申报表（机关第二支部）.docx.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\首席事务代表规范指引培训\\附件1：政务服务中心首席事务代表情况统计表.xlsx",
+        "destination": "D:\\Backup\\2025年12月\\附件1：政务服务中心首席事务代表情况统计表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251202高效办成一件事保税、高密、峡山、安丘存在问题情况.doc",
+        "destination": "D:\\Backup\\2025年12月\\20251202高效办成一件事保税、高密、峡山、安丘存在问题情况.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251201高效办成一件事寿光、滨海、昌邑存在问题情况.docx",
+        "destination": "D:\\Backup\\2025年12月\\20251201高效办成一件事寿光、滨海、昌邑存在问题情况.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\潍坊市政务直播开展情况调研分析（主体班次调研报告）.docx",
+        "destination": "D:\\Backup\\2025年11月\\潍坊市政务直播开展情况调研分析（主体班次调研报告）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\潍坊市政务直播开展情况调研报告.doc",
+        "destination": "D:\\Backup\\2025年11月\\潍坊市政务直播开展情况调研报告.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\山东省政务服务标准规范汇编（四）清样（A4精简版1020）.pdf",
+        "destination": "D:\\Backup\\2025年11月\\山东省政务服务标准规范汇编（四）清样（A4精简版1020）.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\山东省政务服务标准规范汇编（四）清样（32K精简版1022）.pdf",
+        "destination": "D:\\Backup\\2025年11月\\山东省政务服务标准规范汇编（四）清样（32K精简版1022）.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\2025年11月\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿1021）.docx",
+        "destination": "D:\\Backup\\2025年11月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿1021）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\山东省政务服务标准规范汇编（四）清样（32K精简版1022）.doc",
+        "destination": "D:\\Backup\\2025年11月\\山东省政务服务标准规范汇编（四）清样（32K精简版1022）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\山东省政务服务标准规范汇编（四）清样（A4精简版1020）.doc",
+        "destination": "D:\\Backup\\2025年11月\\山东省政务服务标准规范汇编（四）清样（A4精简版1020）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年11月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\3.关于起草政务服务4个规范指引的情况汇报.docx",
+        "destination": "D:\\Backup\\2025年11月\\3.关于起草政务服务4个规范指引的情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\1.送审单.doc",
+        "destination": "D:\\Backup\\2025年11月\\1.送审单.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\十二经络歌诀.docx",
+        "destination": "D:\\Backup\\2025年10月\\十二经络歌诀.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\潍坊市既有多层住宅加装电梯“一件事”服务指南（1028）.docx",
+        "destination": "D:\\Backup\\2025年10月\\潍坊市既有多层住宅加装电梯“一件事”服务指南（1028）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024级10月阶段检测成绩(1024).xlsx",
+        "destination": "D:\\Backup\\2025年10月\\2024级10月阶段检测成绩(1024).xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\保留事项.xls",
+        "destination": "D:\\Backup\\2025年10月\\保留事项.xls",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit 1 中译英.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit 1 中译英.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit 1 衡水体字帖.pdf",
+        "destination": "D:\\Backup\\2025年10月\\Unit 1 衡水体字帖.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年10月\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年10月\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit3（4）.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit3（4）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\默写符号表达式和现象.pdf",
+        "destination": "D:\\Backup\\2025年10月\\默写符号表达式和现象.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit3（3）.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit3（3）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit3（2）.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit3（2）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit2（5）.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit2（5）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit3（1）.docx",
+        "destination": "D:\\Backup\\2025年10月\\Unit3（1）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\请假条 统一模板.docx",
+        "destination": "D:\\Backup\\2025年10月\\请假条 统一模板.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\国庆英语跨学科实践作业.doc",
+        "destination": "D:\\Backup\\2025年10月\\国庆英语跨学科实践作业.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\道法国庆实践作业（三选一完成）\\实践作业3\\实践作业3 旅行注意事项（参考版）.docx",
+        "destination": "D:\\Backup\\2025年10月\\实践作业3 旅行注意事项（参考版）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\道法国庆实践作业（三选一完成）\\实践作业3\\实践作业3 旅行注意事项--维护国家安全须知.docx",
+        "destination": "D:\\Backup\\2025年10月\\实践作业3 旅行注意事项--维护国家安全须知.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\道法国庆实践作业（三选一完成）\\实践作业2\\实践作业2活动策划书模板.docx",
+        "destination": "D:\\Backup\\2025年10月\\实践作业2活动策划书模板.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\道法国庆实践作业（三选一完成）\\实践作业1\\调查表填写参考.doc",
+        "destination": "D:\\Backup\\2025年10月\\调查表填写参考.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\道法国庆实践作业（三选一完成）\\实践作业1\\实践作业1 社会秩序调查表.doc",
+        "destination": "D:\\Backup\\2025年10月\\实践作业1 社会秩序调查表.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit2（3）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit2（3）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\2025-09-29报政策法规处审核的函.doc",
+        "destination": "D:\\Backup\\2025年09月\\2025-09-29报政策法规处审核的函.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\4.山东省政务服务场所外语标识用语规范（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年09月\\4.山东省政务服务场所外语标识用语规范（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年09月\\3.山东省政务服务自助服务规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年09月\\2.山东省政务服务“不打烊”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "destination": "D:\\Backup\\2025年09月\\1.山东省政务服务“首席事务代表”工作规范指引（送审稿）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\3.关于《山东省政务服务自助服务规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\2025年09月\\3.关于《山东省政务服务自助服务规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\4.关于《山东省政务服务场所外语标识用语标范》的起草说明.doc",
+        "destination": "D:\\Backup\\2025年09月\\4.关于《山东省政务服务场所外语标识用语标范》的起草说明.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\2.关于《山东省政务服务“不打烊”工作规范指引》的起草说明.doc",
+        "destination": "D:\\Backup\\2025年09月\\2.关于《山东省政务服务“不打烊”工作规范指引》的起草说明.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20250929送政策法规处（11时）\\20250929送政策法规处（11时）\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "destination": "D:\\Backup\\2025年09月\\1.关于《山东省政务服务“首席事务代表”工作规范指引》的起草说明.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit2 P23-26.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit2 P23-26.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八上生物知识整理(1).docx",
+        "destination": "D:\\Backup\\2025年09月\\八上生物知识整理(1).docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\U1作文范文背默.doc",
+        "destination": "D:\\Backup\\2025年09月\\U1作文范文背默.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit2（1）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit2（1）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 （3）(1).docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 （3）(1).docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025年一级建造师资格考试准考证.pdf",
+        "destination": "D:\\Backup\\2025年09月\\2025年一级建造师资格考试准考证.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 作文.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 作文.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 （5）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 （5）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 （4）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 （4）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\绿野仙踪整体任务单(1).pdf",
+        "destination": "D:\\Backup\\2025年09月\\绿野仙踪整体任务单(1).pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\U1 P6-7.docx",
+        "destination": "D:\\Backup\\2025年09月\\U1 P6-7.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 （3）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 （3）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\20251022修改后送法规处规范指引\\20251022修改后送法规处规范指引\\4省委编办.pdf",
+        "destination": "D:\\Backup\\2025年09月\\4省委编办.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\Unit1 （2）.docx",
+        "destination": "D:\\Backup\\2025年09月\\Unit1 （2）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\八年级上英语\\U1起始课1.doc",
+        "destination": "D:\\Backup\\2025年09月\\U1起始课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\水总2024-323号文.pdf",
+        "destination": "D:\\Backup\\2025年08月\\水总2024-323号文.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\二年级上学期古诗文诵读（2025版）\\二年级上学期小古文（2025版）.doc",
+        "destination": "D:\\Backup\\2025年08月\\二年级上学期小古文（2025版）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\二年级上学期古诗文诵读（2025版）\\二年级上学期古诗（2025版）.docx",
+        "destination": "D:\\Backup\\2025年08月\\二年级上学期古诗（2025版）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\七下期末测试质量分析.xlsx",
+        "destination": "D:\\Backup\\2025年07月\\七下期末测试质量分析.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\七下期中测试质量分析.xlsx",
+        "destination": "D:\\Backup\\2025年07月\\七下期中测试质量分析.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025年一级建造师资格考试.pdf",
+        "destination": "D:\\Backup\\2025年07月\\2025年一级建造师资格考试.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\七年级考前开头结尾.pdf",
+        "destination": "D:\\Backup\\2025年07月\\七年级考前开头结尾.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\关于全省政务服务领域业务培训会主要内容的汇报.docx",
+        "destination": "D:\\Backup\\2025年06月\\关于全省政务服务领域业务培训会主要内容的汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\6月5日全省政务服务领域业务培训会会议纪要.docx",
+        "destination": "D:\\Backup\\2025年06月\\6月5日全省政务服务领域业务培训会会议纪要.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\拒绝校园欺凌，守护友爱校园(1).docx",
+        "destination": "D:\\Backup\\2025年06月\\拒绝校园欺凌，守护友爱校园(1).docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U6读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U6读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U6读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U6读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U6读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U6读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U6读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U6读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U6听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U6听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U5读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U5读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U5读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U5读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U5读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U5读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U5读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U5读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U5听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U5听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U4读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U4读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U4读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U4读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U4读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U4读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U4读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U4读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U4听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U4听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U3-读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U3-读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U3-读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U3-读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U3-读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U3-读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U3-读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U3-读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U3-听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U3-听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U2读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U2读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U2读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U2读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U2读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U2读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U2读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U2读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U2听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U2听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U1读说课2.doc",
+        "destination": "D:\\Backup\\2025年06月\\U1读说课2.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U1读说课1.doc",
+        "destination": "D:\\Backup\\2025年06月\\U1读说课1.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U1读写课5.doc",
+        "destination": "D:\\Backup\\2025年06月\\U1读写课5.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U1读写课4.doc",
+        "destination": "D:\\Backup\\2025年06月\\U1读写课4.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\本学期默写版背诵版汇总\\U1听说课3.doc",
+        "destination": "D:\\Backup\\2025年06月\\U1听说课3.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\七下单词、短语、句型默写打印两份\\七下知识点默写汇总.pdf",
+        "destination": "D:\\Backup\\2025年06月\\七下知识点默写汇总.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡主题词汇决赛词汇表(1).xlsx",
+        "destination": "D:\\Backup\\2025年06月\\旺卡主题词汇决赛词汇表(1).xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡常见词决赛词汇(1).xlsx",
+        "destination": "D:\\Backup\\2025年06月\\旺卡常见词决赛词汇(1).xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡主题词汇决赛词汇表.xlsx",
+        "destination": "D:\\Backup\\2025年06月\\旺卡主题词汇决赛词汇表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡常见词决赛词汇.xlsx",
+        "destination": "D:\\Backup\\2025年06月\\旺卡常见词决赛词汇.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡主题词汇海选赛词汇表 1.xlsx",
+        "destination": "D:\\Backup\\2025年06月\\旺卡主题词汇海选赛词汇表 1.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\形容词副词比较级和最高级重点句型.pdf",
+        "destination": "D:\\Backup\\2025年05月\\形容词副词比较级和最高级重点句型.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\基础复习清单\\七下语文【字词 古诗文】通关小纸条19天.pdf",
+        "destination": "D:\\Backup\\2025年05月\\七下语文【字词 古诗文】通关小纸条19天.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\22.社会管理和公共服务综合标准化试点评估评分表（自我评价）.doc",
+        "destination": "D:\\Backup\\2025年05月\\22.社会管理和公共服务综合标准化试点评估评分表（自我评价）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\1-潍坊市行政审批服务局简介.docx",
+        "destination": "D:\\Backup\\2025年05月\\1-潍坊市行政审批服务局简介.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\25.社会管理和公共服务综合标准化试点终期评估申请表.doc",
+        "destination": "D:\\Backup\\2025年05月\\25.社会管理和公共服务综合标准化试点终期评估申请表.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\9-潍坊市“云服务、零见面”综合标准化试点工作报告.docx",
+        "destination": "D:\\Backup\\2025年05月\\9-潍坊市“云服务、零见面”综合标准化试点工作报告.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\~$.1-关于开展“云服务、零见面”政务服务标准化体系自我评价报告.docx",
+        "destination": "D:\\Backup\\2025年05月\\~$.1-关于开展“云服务、零见面”政务服务标准化体系自我评价报告.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\32.1-关于开展“云服务、零见面”政务服务标准化体系自我评价报告.docx",
+        "destination": "D:\\Backup\\2025年05月\\32.1-关于开展“云服务、零见面”政务服务标准化体系自我评价报告.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\潍坊市行政审批服务局关于公布潍坊市”云服务、零见面“政务服务标准化工作兼职人员名单的通知.docx",
+        "destination": "D:\\Backup\\2025年05月\\潍坊市行政审批服务局关于公布潍坊市”云服务、零见面“政务服务标准化工作兼职人员名单的通知.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\26.成绩、荣誉佐证材料.docx",
+        "destination": "D:\\Backup\\2025年05月\\26.成绩、荣誉佐证材料.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\8-山东潍坊“云服务、零见面”政务服务标准化试点项目计划进度表（验收用）.docx",
+        "destination": "D:\\Backup\\2025年05月\\8-山东潍坊“云服务、零见面”政务服务标准化试点项目计划进度表（验收用）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\7-关于发布《潍坊“云服务、零见面”政务服务标准化试点项目实施方案》的通知.docx",
+        "destination": "D:\\Backup\\2025年05月\\7-关于发布《潍坊“云服务、零见面”政务服务标准化试点项目实施方案》的通知.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\28-关于成立“云服务、零见面”政务服务标准化实施检查小组的通知(1).docx",
+        "destination": "D:\\Backup\\2025年05月\\28-关于成立“云服务、零见面”政务服务标准化实施检查小组的通知(1).docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\24-关于发布实施“云服务、零见面”政务服务标准体系的通知.docx",
+        "destination": "D:\\Backup\\2025年05月\\24-关于发布实施“云服务、零见面”政务服务标准体系的通知.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\3.2-关于任命潍坊市“云服务、零见面”政务服务标准化管理者代表的通知.docx",
+        "destination": "D:\\Backup\\2025年05月\\3.2-关于任命潍坊市“云服务、零见面”政务服务标准化管理者代表的通知.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\验收文件\\3.1-关于成立潍坊市“云服务、零见面”政务服务标准化试点工作领导小组的通知.doc",
+        "destination": "D:\\Backup\\2025年05月\\3.1-关于成立潍坊市“云服务、零见面”政务服务标准化试点工作领导小组的通知.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\圆圆\\英语\\旺卡sight words 海选赛词汇表.xlsx",
+        "destination": "D:\\Backup\\2025年05月\\旺卡sight words 海选赛词汇表.xlsx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\市审批服务局.docx",
+        "destination": "D:\\Backup\\2025年04月\\市审批服务局.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\首席事务代表（讨论稿）(20250416).docx",
+        "destination": "D:\\Backup\\2025年04月\\首席事务代表（讨论稿）(20250416).docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\给杨市长的呈阅件：关于印发《潍坊市“无证明城市”建设巩固提升年工作要点》的情况汇报.docx",
+        "destination": "D:\\Backup\\2025年04月\\给杨市长的呈阅件：关于印发《潍坊市“无证明城市”建设巩固提升年工作要点》的情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\局长办公会议汇报—关于政务服务“智审速办”和“市域通办通取”改革工作情况的汇报20250323.docx",
+        "destination": "D:\\Backup\\2025年03月\\局长办公会议汇报—关于政务服务“智审速办”和“市域通办通取”改革工作情况的汇报20250323.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\调研报告（协调指导科）.docx",
+        "destination": "D:\\Backup\\2025年03月\\调研报告（协调指导科）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\调研报告.docx",
+        "destination": "D:\\Backup\\2025年03月\\调研报告.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\省“高效办成一件事”重点事项推进会情况汇报.doc",
+        "destination": "D:\\Backup\\2025年02月\\省“高效办成一件事”重点事项推进会情况汇报.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\对班子成员的批评意见.docx",
+        "destination": "D:\\Backup\\2025年01月\\对班子成员的批评意见.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\工作收入证明.doc",
+        "destination": "D:\\Backup\\2025年01月\\工作收入证明.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\2024年度民主生活会对照检查材料（张春勇）.docx",
+        "destination": "D:\\Backup\\2025年01月\\2024年度民主生活会对照检查材料（张春勇）.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\附件3 2024年度县市区、市属开发区“国家确定的重点‘一件事’事项落实率”考核评估报告（市审批服务局0114).doc",
+        "destination": "D:\\Backup\\2025年01月\\附件3 2024年度县市区、市属开发区“国家确定的重点‘一件事’事项落实率”考核评估报告（市审批服务局0114).doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\2024年度履行全面从严治党责任工作汇报（张春勇）.doc",
+        "destination": "D:\\Backup\\2024年12月\\2024年度履行全面从严治党责任工作汇报（张春勇）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\政务服务管理体制改革方面.docx",
+        "destination": "D:\\Backup\\2024年11月\\政务服务管理体制改革方面.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\附件：创新实践案例申报表（TOP店）.doc",
+        "destination": "D:\\Backup\\2024年11月\\附件：创新实践案例申报表（TOP店）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\进驻政务服务中心率.docx",
+        "destination": "D:\\Backup\\2024年11月\\进驻政务服务中心率.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\潍坊市创新推行“云服务、零见面”改革打造“云上政务服务TOP店”.docx",
+        "destination": "D:\\Backup\\2024年11月\\潍坊市创新推行“云服务、零见面”改革打造“云上政务服务TOP店”.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\市审批服务局调研课题：政务服务“一件事一次办”改革实践与思考（6000字）.doc",
+        "destination": "D:\\Backup\\2024年11月\\市审批服务局调研课题：政务服务“一件事一次办”改革实践与思考（6000字）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\圆圆一年级学习资料\\第一二单元易错题集锦.pdf",
+        "destination": "D:\\Backup\\2024年11月\\第一二单元易错题集锦.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\圆圆一年级学习资料\\第三单元复习单.docx",
+        "destination": "D:\\Backup\\2024年11月\\第三单元复习单.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\既有住宅加装电梯“一件事”经验材料.doc",
+        "destination": "D:\\Backup\\2024年11月\\既有住宅加装电梯“一件事”经验材料.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\附件3 国家“高效办成一件事”13个重点事项经验做法汇编.pdf",
+        "destination": "D:\\Backup\\2024年11月\\附件3 国家“高效办成一件事”13个重点事项经验做法汇编.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\政务服务“一件事一次办”改革实践与思考(1105).doc",
+        "destination": "D:\\Backup\\2024年11月\\政务服务“一件事一次办”改革实践与思考(1105).doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\电梯经验材料.doc",
+        "destination": "D:\\Backup\\2024年11月\\电梯经验材料.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\项目申报表（首席代表）.doc",
+        "destination": "D:\\Backup\\2024年11月\\项目申报表（首席代表）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\潍坊市重点推荐的“揭榜挂帅和专题攻关”项目（审批服务系统).doc",
+        "destination": "D:\\Backup\\2024年11月\\潍坊市重点推荐的“揭榜挂帅和专题攻关”项目（审批服务系统).doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\项目申报表（不打烊）.doc",
+        "destination": "D:\\Backup\\2024年11月\\项目申报表（不打烊）.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\圆圆一年级学习资料\\口算题.docx",
+        "destination": "D:\\Backup\\2024年10月\\口算题.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\潍坊市企业信息变更“一件事”集成服务场景办事指南.doc",
+        "destination": "D:\\Backup\\2024年10月\\潍坊市企业信息变更“一件事”集成服务场景办事指南.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\潍坊市企业注销登记“一件事”集成服务场景办事指南.doc",
+        "destination": "D:\\Backup\\2024年10月\\潍坊市企业注销登记“一件事”集成服务场景办事指南.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\关于拟订《山东省政务服务标准规范汇编（三）》的情况汇报.pdf",
+        "destination": "D:\\Backup\\2024年09月\\关于拟订《山东省政务服务标准规范汇编（三）》的情况汇报.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\3.关于起草政务服务3个规范指引的情况汇报.docx",
+        "destination": "D:\\Backup\\2024年09月\\3.关于起草政务服务3个规范指引的情况汇报.docx",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\1.送审单.doc",
+        "destination": "D:\\Backup\\2024年09月\\1.送审单.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\4.山东省政务服务标准规范汇编（三）清样.pdf",
+        "destination": "D:\\Backup\\2024年09月\\4.山东省政务服务标准规范汇编（三）清样.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2025-11-3第四批规范指引送审材料\\4.山东省政务服务标准规范汇编（三）清样.doc",
+        "destination": "D:\\Backup\\2024年09月\\4.山东省政务服务标准规范汇编（三）清样.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\2024-09-20第三批规范指引送审材料\\2024-09-20第三批规范指引送审材料\\2.政策法规处审核意见.pdf",
+        "destination": "D:\\Backup\\2024年09月\\2.政策法规处审核意见.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\圆圆一年级学习资料\\1.2课程表.xls",
+        "destination": "D:\\Backup\\2024年09月\\1.2课程表.xls",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\圆圆一年级学习资料\\古琴减字谱\\古琴曲集(考级曲集)第1册.pdf",
+        "destination": "D:\\Backup\\2024年06月\\古琴曲集(考级曲集)第1册.pdf",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      },
+      {
+        "source": "D:\\20251108桌面\\审批局工作\\通知.doc",
+        "destination": "D:\\Backup\\2023年12月\\通知.doc",
+        "operation": "copy",
+        "success": true,
+        "error": null,
+        "undone": true,
+        "undo_error": null
+      }
+    ],
+    "undone": true,
+    "undo_timestamp": "2026-04-25 00:09:11"
+  }
+]
