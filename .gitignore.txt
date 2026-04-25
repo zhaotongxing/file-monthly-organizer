@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 打包生成的目录
+build/
+dist/
+*.spec
+
+# 程序运行产生的本地数据（不要上传个人历史）
+organizer_history.json
+
+# IDE 配置
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+Thumbs.db
+.DS_Store
