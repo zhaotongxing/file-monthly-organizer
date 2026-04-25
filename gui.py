@@ -617,9 +617,9 @@ class FileOrganizerApp:
                                       style="Custom.Treeview")
 
         col_defs = [
-            ('name', 'col_name', 220, 'w'), ('type', 'col_type', 90, 'center'),
-            ('size', 'col_size', 90, 'center'), ('modified', 'col_modified', 140, 'center'),
-            ('month', 'col_month', 90, 'center'), ('path', 'col_path', 350, 'w')
+            ('name', 'col_name', 200, 'w'), ('type', 'col_type', 80, 'center'),
+            ('size', 'col_size', 80, 'center'), ('modified', 'col_date', 180, 'center'),
+            ('month', 'col_month', 80, 'center'), ('path', 'col_path', 330, 'w')
         ]
         for col, title_key, w, a in col_defs:
             self.file_tree.heading(col, text=self._str(title_key))
@@ -814,9 +814,15 @@ class FileOrganizerApp:
     def _refresh_file_list(self, files: List[FileInfo]):
         self.file_tree.delete(*self.file_tree.get_children())
         for fi in files:
+            # 媒体文件显示拍摄时间，Office显示修改时间
+            time_str = fi.capture_time_readable if fi.capture_time else fi.modified_time_readable
+            # 添加时间来源标签 (EXIF/媒体创建/文件创建/修改)
+            source_key = f"time_source_{fi.time_source}"
+            source_label = self._str(source_key)
+            time_display = f"{time_str}  ({source_label})"
             self.file_tree.insert('', tk.END, values=(
                 fi.name, fi.file_type, fi.size_readable,
-                fi.modified_time_readable, fi.year_month, fi.path))
+                time_display, fi.year_month, fi.path))
         self.displayed_files = files
 
     def _on_file_double_click(self, event):
@@ -866,6 +872,22 @@ class FileOrganizerApp:
         self._show_progress(False)
         s = self.scanner.get_statistics()
         self._log(self._str("log_scan_complete", count=s['total_files'], size=s['size_readable']))
+        
+        # 显示时间来源统计
+        ts = s.get('time_stats', {})
+        if ts:
+            for key in ['EXIF', 'media_create', 'file_create', 'modified']:
+                count = ts.get(key, 0)
+                if count > 0:
+                    log_key = f"log_time_{key.lower()}"
+                    self._log(self._str(log_key, count=count))
+        
+        # 如果图片EXIF未启用且有图片被扫描，提示安装 Pillow
+        if not self.scanner.is_pillow_available() and self.scan_image.get():
+            img_count = sum(1 for f in self.all_files if f.category == 'image')
+            if img_count > 0:
+                self._log(self._str("msg_pillow_missing"))
+        
         self._refresh_file_list(self.all_files)
         self._update_stats(s)
         self.status_var.set(self._str("status_scan_complete", count=s['total_files'], size=s['size_readable']))
@@ -1154,6 +1176,25 @@ class FileOrganizerApp:
             for m, c in stats['by_month'].items():
                 lines.append(f"  {m}: {c}")
             lines.append("")
+        
+        # 时间来源统计（新增）
+        if stats.get('time_stats'):
+            ts = stats['time_stats']
+            has_media = ts.get('EXIF', 0) + ts.get('media_create', 0) + ts.get('file_create', 0)
+            if has_media > 0:
+                lines.append(f"【Time Source】")
+                source_map = {
+                    'EXIF': self._str('time_source_exif'),
+                    'media_create': self._str('time_source_media'),
+                    'file_create': self._str('time_source_file_create'),
+                    'modified': self._str('time_source_modified'),
+                }
+                for key in ['EXIF', 'media_create', 'file_create', 'modified']:
+                    count = ts.get(key, 0)
+                    if count > 0:
+                        lines.append(f"  {source_map[key]}: {count}")
+                lines.append("")
+        
         lines.append("=" * 50)
         self.stats_text.insert(tk.END, "\n".join(lines))
         self.stats_text.config(state=tk.DISABLED)

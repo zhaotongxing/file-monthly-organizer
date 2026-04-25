@@ -11,7 +11,7 @@
     "failed_count": 0,
     "skipped_count": 5,
     "keyword_subfolder": "规范指引",
-    "status": "partial",
+    "status": "undone",
     "items": [
       {
         "source": "D:\\20251108桌面\\首席事务代表规范指引培训\\附件2：政务服务中心首席事务代表情况汇总表.xlsx",
@@ -19,7 +19,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -28,7 +28,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -37,7 +37,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -46,7 +46,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -55,7 +55,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -64,7 +64,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -73,7 +73,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -82,7 +82,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -91,7 +91,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -100,7 +100,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -109,7 +109,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -118,7 +118,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -127,7 +127,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -136,7 +136,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -145,7 +145,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -154,7 +154,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -163,7 +163,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -172,7 +172,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -181,7 +181,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -190,7 +190,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -199,7 +199,7 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       },
       {
@@ -208,12 +208,12 @@
         "operation": "copy",
         "success": true,
         "error": null,
-        "undone": false,
+        "undone": true,
         "undo_error": null
       }
     ],
-    "undone": false,
-    "undo_timestamp": null
+    "undone": true,
+    "undo_timestamp": "2026-04-25 16:26:55"
   },
   {
     "task_id": "98817da1",

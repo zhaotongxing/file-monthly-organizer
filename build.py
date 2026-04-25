@@ -18,6 +18,22 @@ import subprocess
 import shutil
 
 
+def check_pillow():
+    """检查是否安装了Pillow（用于图片EXIF拍摄时间读取）"""
+    try:
+        from PIL import Image
+        return True
+    except ImportError:
+        return False
+
+
+def install_pillow():
+    """安装Pillow"""
+    print("正在安装 Pillow...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "Pillow"])
+    print("Pillow 安装完成！")
+
+
 def check_pyinstaller():
     """检查是否安装了PyInstaller"""
     try:
@@ -54,6 +70,16 @@ def build():
     print("=" * 50)
     print("文件月整理工具 - 打包脚本")
     print("=" * 50)
+    
+    # 检查Pillow（图片EXIF读取必需）
+    if not check_pillow():
+        print("\n[提示] 未检测到 Pillow，图片的 EXIF 拍摄时间读取将不可用。")
+        print("      建议安装 Pillow 以获得最佳体验: pip install Pillow")
+        resp = input("是否现在安装 Pillow? (y/n): ").strip().lower()
+        if resp == 'y':
+            install_pillow()
+    else:
+        print("\n[✓] Pillow 已安装 - 图片 EXIF 拍摄时间读取可用")
     
     # 检查PyInstaller
     if not check_pyinstaller():
@@ -95,9 +121,14 @@ def build():
         "--windowed",          # Windows GUI模式（不显示控制台）
         "--clean",             # 清理临时文件
         "--noconfirm",         # 不确认覆盖
-    ] + add_data_args + [
-        "main.py"
-    ]
+    ] + add_data_args
+    
+    # 如果 Pillow 已安装，确保被打包
+    if check_pillow():
+        cmd.append("--hidden-import=PIL")
+        cmd.append("--hidden-import=PIL.Image")
+    
+    cmd.append("main.py")
     
     print("\n开始打包...")
     print(f"工作目录: {root_dir}")
